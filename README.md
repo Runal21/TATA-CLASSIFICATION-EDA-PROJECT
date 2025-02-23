@@ -52,10 +52,3 @@ Feel free to **fork** the repository and submit a **pull request** for improveme
 ## 📩 Contact
 For any queries, reach out via [[LinkedIn](https://www.linkedin.com/in/runal-bhosale/)] or [rubhosale21@gmail.com].
 
-### **Final Suggestion**  
-- **Make your repo more structured** 📂  
-- **Provide a clean README with setup instructions** 📜  
-- **Include proper docstrings & comments in your code** 📝  
-- **Add visuals/screenshots in README for better presentation** 📊  
-
-Would you like me to help with a **deployment guide using Flask/FastAPI** for real-time failure predictions? 🚀
